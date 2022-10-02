@@ -1,0 +1,1 @@
+socket connection class has list of socket servers.
